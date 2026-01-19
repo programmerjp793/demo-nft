@@ -1,3 +1,3 @@
-export const CONTRACTPACKAGEID = "";
-export const CONTRACTMODULENAME = "";
-export const CONTRACTMODULEMETHOD = "";
+export const CONTRACTPACKAGEID = "0x65963bd7465a6a6630bd595ce3c6d10827b46e993098e6ac21e2713ffd0f6f00";
+export const CONTRACTMODULENAME = "devnet_nft";
+export const CONTRACTMODULEMETHOD = "mint";
